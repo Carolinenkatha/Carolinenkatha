@@ -87,7 +87,7 @@ Passionate about solving real world problems using data and delivering measurabl
 <p align="center">
   <strong>Connect With Me</strong><br><br>
 
-  💼 LinkedIn: (https://www.linkedin.com/in/caroline-muriungi-627432382?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br>
+  💼 LinkedIn:  <br>
   📧 Email: nkathac07@gmail.com
 </p>
 
